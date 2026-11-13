@@ -1,0 +1,296 @@
+{
+  "offer": {
+    "visible": false,
+    "text": "★ Offre de lancement — 20 % sur tous les shootings en studio, jusqu'au 31 octobre"
+  },
+  "hero": {
+    "eyebrow": "Studio photo — Akwa, Douala",
+    "title": "La lumière juste,\npour *vos* photos.",
+    "sub": "PIC STUDIO accueille particuliers et entreprises à Akwa, face City Sport, pour des portraits, des photos de famille, des photos d'identité et des souvenirs d'événements. Ouvert tous les jours, de 9 h à 20 h.",
+    "cta1": "Réserver une séance",
+    "cta2": "Voir les prestations",
+    "facts": [
+      "7j/7 · 9h–20h",
+      "Sans rendez-vous pour la photo d'identité",
+      "Akwa, face City Sport"
+    ],
+    "image": {
+      "src": "images/hero.svg",
+      "alt": "Studio PIC STUDIO"
+    }
+  },
+  "approach": {
+    "eyebrow": "Notre façon de travailler",
+    "title": "Un rendez-vous préparé, une séance guidée",
+    "intro": "Chaque client est reçu la minute de son arrivée. Le photographe explique, pose et cadre — personne n'est jamais laissé devant l'objectif sans indication.",
+    "items": [
+      {
+        "label": "01 — L'accueil",
+        "title": "On vous installe",
+        "text": "Un siège, de l'eau, et un bref échange sur l'usage des photos : CV, réseaux, cadeau ou événement — pour cadrer la séance dès le départ."
+      },
+      {
+        "label": "02 — La prise de vue",
+        "title": "On vous guide",
+        "text": "Fond, lumière et pose choisis avec vous. Un espace maquillage est disponible pour les séances qui le demandent."
+      },
+      {
+        "label": "03 — La livraison",
+        "title": "On vous prévient",
+        "text": "Sélection des photos sur écran avant votre départ, puis livraison en haute qualité par lien, jamais compressée par WhatsApp."
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Côté studio",
+    "title": "Galerie",
+    "intro": "Un aperçu de l'univers PIC STUDIO : portraits, familles, couples, photos d'identité, événements et visuels d'entreprise.",
+    "items": [
+      {
+        "src": "images/gallery-1.svg",
+        "alt": "Portrait",
+        "caption": "Portrait"
+      },
+      {
+        "src": "images/gallery-2.svg",
+        "alt": "Famille",
+        "caption": "Famille"
+      },
+      {
+        "src": "images/gallery-3.svg",
+        "alt": "Produits",
+        "caption": "Produits"
+      },
+      {
+        "src": "images/gallery-4.svg",
+        "alt": "Couple",
+        "caption": "Couple"
+      },
+      {
+        "src": "images/gallery-5.svg",
+        "alt": "Photo d'identité",
+        "caption": "Photo d'identité"
+      },
+      {
+        "src": "images/gallery-6.svg",
+        "alt": "Mariage",
+        "caption": "Mariage"
+      },
+      {
+        "src": "images/gallery-7.svg",
+        "alt": "Coulisses",
+        "caption": "Coulisses"
+      },
+      {
+        "src": "images/gallery-8.svg",
+        "alt": "Portraits d'équipe",
+        "caption": "Portraits d'équipe"
+      }
+    ]
+  },
+  "particuliers": {
+    "eyebrow": "Pour vous",
+    "title": "Prestations particuliers",
+    "intro": "Portrait seul, en famille ou en couple, photo d'identité sans rendez-vous, ou portrait de deuil — chaque séance est pensée pour l'usage que vous en ferez.",
+    "items": [
+      {
+        "title": "Photo d'identité",
+        "text": "CV, concours, dossiers administratifs. Accueillie entre deux séances, sans rendez-vous, paiement sur place.",
+        "tag": "Sans rendez-vous"
+      },
+      {
+        "title": "Portrait",
+        "text": "Un portrait en studio, seul, pour vos réseaux, un cadeau ou simplement pour vous. Fond et lumière choisis avec vous.",
+        "tag": "Sur rendez-vous"
+      },
+      {
+        "title": "Famille",
+        "text": "Toute la famille réunie le temps d'une séance, dans le confort du studio climatisé d'Akwa.",
+        "tag": "Sur rendez-vous"
+      },
+      {
+        "title": "Couple",
+        "text": "Fiançailles, anniversaire de mariage ou simplement envie d'un souvenir à deux.",
+        "tag": "Sur rendez-vous"
+      },
+      {
+        "title": "Enfants",
+        "text": "Un rythme adapté, pour capturer les enfants sans les brusquer.",
+        "tag": "Sur rendez-vous"
+      },
+      {
+        "title": "Projet sur mesure",
+        "text": "Une idée qui ne rentre pas dans une case ? Dites-nous ce que vous imaginez, nous vous répondons sous l'heure sur WhatsApp.",
+        "tag": "Sur devis"
+      }
+    ]
+  },
+  "entreprises": {
+    "eyebrow": "Pour votre activité",
+    "title": "Prestations entreprises",
+    "intro": "Les commerces et entreprises d'Akwa et d'ailleurs font appel à PIC STUDIO pour leurs visuels produits et leurs portraits d'équipe.",
+    "items": [
+      {
+        "title": "Photos produits",
+        "text": "Mise en lumière de vos produits en studio — catalogue, boutique en ligne ou réseaux sociaux.",
+        "tag": "En studio"
+      },
+      {
+        "title": "Portraits d'équipe",
+        "text": "Portraits individuels ou collectifs pour votre site, vos cartes de visite ou votre communication interne.",
+        "tag": "Studio ou sur site"
+      },
+      {
+        "title": "Projet sur mesure",
+        "text": "Lancement, reportage, besoin ponctuel : parlons de votre projet et nous vous proposons un devis adapté.",
+        "tag": "Sur devis"
+      }
+    ]
+  },
+  "events": {
+    "eyebrow": "Moments particuliers",
+    "title": "Événements & portraits de deuil",
+    "cards": [
+      {
+        "pill": "Devis signé requis",
+        "title": "Mariages & anniversaires",
+        "text": "Toute prestation d'événement est confirmée par un devis et un acompte. Nous nous déplaçons pour couvrir votre journée, ou vous recevons en studio pour les photos de couple.\n\nLivraison annoncée à l'avance — jamais de retard sans prévenance.",
+        "tone": ""
+      },
+      {
+        "pill": "Priorité absolue",
+        "title": "Portraits de deuil",
+        "text": "Un portrait agrandi et encadré, réalisé avec un délai court et un ton sobre. Votre famille n'a jamais à négocier ni à attendre : ces demandes passent en priorité dans notre planning.",
+        "tone": "deuil"
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Déroulement",
+    "title": "Une séance, six étapes",
+    "intro": "Chaque séance suit le même fil, du premier échange à la livraison.",
+    "items": [
+      {
+        "title": "Brief",
+        "text": "Ce que vous voulez, l'usage des photos, les tenues et le nombre de photos prévu — en quelques minutes à votre arrivée."
+      },
+      {
+        "title": "Préparation",
+        "text": "Maquillage si vous l'avez commandé, choix du fond et de l'éclairage, dernière vérification de la tenue."
+      },
+      {
+        "title": "Prise de vue",
+        "text": "Le photographe guide chaque pose. Vous n'êtes jamais laissé sans indication devant l'objectif."
+      },
+      {
+        "title": "Sélection",
+        "text": "Vous choisissez vos photos directement sur écran, à la fin de la séance."
+      },
+      {
+        "title": "Paiement",
+        "text": "Le solde est réglé en Mobile Money ou en espèces, avec reçu, avant votre départ."
+      },
+      {
+        "title": "Retouche & livraison",
+        "text": "Vos photos sont retouchées puis livrées dans le délai annoncé, par un lien en haute qualité."
+      }
+    ]
+  },
+  "studio": {
+    "eyebrow": "Le studio",
+    "title": "Un espace pensé pour chaque séance",
+    "text": "PIC STUDIO se trouve à Akwa, face City Sport. L'équipe réunit un photographe pour la prise de vue, une maquilleuse pour vous préparer, et une personne dédiée à l'accueil et aux rendez-vous — pour que votre séance se déroule sans attente.",
+    "traits": [
+      "Studio climatisé",
+      "Espace maquillage",
+      "Ouvert 7j/7, 9h–20h",
+      "Photo d'identité sans rendez-vous",
+      "Paiement Mobile Money ou espèces",
+      "Livraison en haute qualité par lien"
+    ],
+    "image": {
+      "src": "images/studio.svg",
+      "alt": "L'équipe de PIC STUDIO"
+    }
+  },
+  "trust": {
+    "eyebrow": "Pourquoi PIC STUDIO",
+    "title": "Un service pensé pour aller vite, sans bâcler",
+    "intro": "",
+    "items": [
+      {
+        "big": "< 1h",
+        "text": "Délai de réponse visé pour tout message WhatsApp, même en dehors des heures d'ouverture."
+      },
+      {
+        "big": "3 copies",
+        "text": "Chaque photo est sauvegardée sur trois supports avant d'être retouchée — vos souvenirs ne se perdent pas."
+      },
+      {
+        "big": "0 publication",
+        "text": "sans votre accord. Vos photos ne paraissent sur nos pages que si vous le souhaitez."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Tout ce qu'il faut savoir avant de venir",
+    "items": [
+      {
+        "q": "Faut-il prendre rendez-vous ?",
+        "a": "Pour un portrait, une séance famille, couple ou un événement, oui — cela nous permet de vous réserver le studio et, si besoin, la maquilleuse. Pour une photo d'identité, vous pouvez vous présenter directement, nous vous recevons entre deux séances."
+      },
+      {
+        "q": "Un acompte est-il demandé ?",
+        "a": "Pour un événement (mariage, anniversaire), un devis signé et un acompte confirment votre date. Pour une séance en studio, un acompte peut être demandé selon la prestation — nous vous le précisons au moment de la réservation. La photo d'identité se règle sur place, sans acompte."
+      },
+      {
+        "q": "Quels sont les délais de livraison ?",
+        "a": "La photo d'identité est traitée sur place. Comptez généralement 24 à 72 heures pour un portrait, une photo de famille, de couple ou de produits, environ une semaine pour un anniversaire, et deux à trois semaines pour un mariage. Un portrait de deuil est livré sous 48 heures maximum. Si un délai devait évoluer, nous vous prévenons avant l'échéance, jamais après."
+      },
+      {
+        "q": "Comment reçoit-on les photos ?",
+        "a": "Par un lien de téléchargement en haute qualité, ou sur clé USB pour les événements si vous le préférez. WhatsApp compresse les images, nous ne livrons jamais la version finale par ce canal."
+      },
+      {
+        "q": "Et en cas de retard ou d'absence ?",
+        "a": "Prévenez-nous dès que possible : au-delà d'un léger retard, votre séance peut être raccourcie ou décalée selon le planning du jour. En cas d'absence, l'acompte déjà versé reste acquis selon les conditions indiquées sur le devis."
+      },
+      {
+        "q": "Mes photos seront-elles publiées ?",
+        "a": "Jamais sans votre accord. Si nous aimerions partager une ou deux photos sur nos pages, nous vous le demandons directement après la livraison."
+      },
+      {
+        "q": "Comment payer ?",
+        "a": "Orange Money, MTN Mobile Money ou espèces. Un reçu vous est remis pour chaque paiement, même pour une simple photo d'identité."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Venir ou nous écrire",
+    "title": "Réservez votre séance",
+    "address": "Akwa, face City Sport — Douala, Cameroun",
+    "hours": "Tous les jours, de 9 h à 20 h",
+    "phones": [
+      "687 217 875",
+      "654 060 991"
+    ],
+    "wa_title": "Un message, et c'est parti",
+    "wa_text": "Préparez votre message ci-dessous, copiez-le, puis collez-le sur WhatsApp au 687 217 875. Réponse visée sous l'heure.",
+    "wa_message": "Bonjour PIC STUDIO, je souhaite réserver une séance : [portrait / famille / couple / identité / événement], le [date] si possible. Merci !",
+    "wa_button": "Copier le message"
+  },
+  "footer": {
+    "text": "Studio photo à Akwa, face City Sport, Douala. Portraits, familles, événements et visuels d'entreprise."
+  },
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": ""
+  },
+  "site": {
+    "title": "PIC STUDIO",
+    "description": "PIC STUDIO — studio photo à Akwa, face City Sport, Douala. Portraits, familles, photos d'identité, mariages et visuels d'entreprise."
+  }
+}
