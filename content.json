@@ -15,8 +15,22 @@
       "Akwa, face City Sport"
     ],
     "image": {
-      "src": "images/hero.svg",
-      "alt": "Studio PIC STUDIO"
+      "src": "images/photos/accueil-1.jpg",
+      "alt": "Portrait réalisé en studio à Douala",
+      "more": [
+        {
+          "src": "images/photos/accueil-2.jpg",
+          "alt": "Portrait réalisé en studio à Douala"
+        },
+        {
+          "src": "images/photos/accueil-3.jpg",
+          "alt": "Portrait réalisé en studio à Douala"
+        },
+        {
+          "src": "images/photos/accueil-4.jpg",
+          "alt": "Portrait réalisé en studio à Douala"
+        }
+      ]
     }
   },
   "approach": {
@@ -47,43 +61,195 @@
     "intro": "Un aperçu de l'univers PIC STUDIO : portraits, familles, couples, photos d'identité, événements et visuels d'entreprise.",
     "items": [
       {
-        "src": "images/gallery-1.svg",
-        "alt": "Portrait",
+        "src": "images/photos/portrait-1.jpg",
+        "alt": "Portrait en studio",
+        "more": [
+          {
+            "src": "images/photos/portrait-2.jpg",
+            "alt": "Portrait en studio"
+          },
+          {
+            "src": "images/photos/portrait-3.jpg",
+            "alt": "Portrait en studio"
+          },
+          {
+            "src": "images/photos/portrait-4.jpg",
+            "alt": "Portrait en studio"
+          },
+          {
+            "src": "images/photos/portrait-5.jpg",
+            "alt": "Portrait en studio"
+          },
+          {
+            "src": "images/photos/portrait-6.jpg",
+            "alt": "Portrait en studio"
+          }
+        ],
         "caption": "Portrait"
       },
       {
-        "src": "images/gallery-2.svg",
-        "alt": "Famille",
+        "src": "images/photos/famille-1.jpg",
+        "alt": "Photo de famille",
+        "more": [
+          {
+            "src": "images/photos/famille-2.jpg",
+            "alt": "Photo de famille"
+          },
+          {
+            "src": "images/photos/famille-3.jpg",
+            "alt": "Photo de famille"
+          },
+          {
+            "src": "images/photos/famille-4.jpg",
+            "alt": "Photo de famille"
+          },
+          {
+            "src": "images/photos/famille-5.jpg",
+            "alt": "Photo de famille"
+          },
+          {
+            "src": "images/photos/famille-6.jpg",
+            "alt": "Photo de famille"
+          },
+          {
+            "src": "images/photos/famille-7.jpg",
+            "alt": "Photo de famille"
+          }
+        ],
         "caption": "Famille"
       },
       {
-        "src": "images/gallery-3.svg",
-        "alt": "Produits",
+        "src": "images/photos/produit-1.jpg",
+        "alt": "Photo de produit",
+        "more": [
+          {
+            "src": "images/photos/produit-2.jpg",
+            "alt": "Photo de produit"
+          },
+          {
+            "src": "images/photos/produit-3.jpg",
+            "alt": "Photo de produit"
+          },
+          {
+            "src": "images/photos/produit-4.jpg",
+            "alt": "Photo de produit"
+          },
+          {
+            "src": "images/photos/produit-5.jpg",
+            "alt": "Photo de produit"
+          }
+        ],
         "caption": "Produits"
       },
       {
-        "src": "images/gallery-4.svg",
-        "alt": "Couple",
+        "src": "images/photos/couple-1.jpg",
+        "alt": "Portrait de couple",
+        "more": [
+          {
+            "src": "images/photos/couple-2.jpg",
+            "alt": "Portrait de couple"
+          },
+          {
+            "src": "images/photos/couple-3.jpg",
+            "alt": "Portrait de couple"
+          },
+          {
+            "src": "images/photos/couple-4.jpg",
+            "alt": "Portrait de couple"
+          },
+          {
+            "src": "images/photos/couple-5.jpg",
+            "alt": "Portrait de couple"
+          },
+          {
+            "src": "images/photos/couple-6.jpg",
+            "alt": "Portrait de couple"
+          },
+          {
+            "src": "images/photos/couple-7.jpg",
+            "alt": "Portrait de couple"
+          },
+          {
+            "src": "images/photos/couple-8.jpg",
+            "alt": "Portrait de couple"
+          }
+        ],
         "caption": "Couple"
       },
       {
-        "src": "images/gallery-5.svg",
-        "alt": "Photo d'identité",
+        "src": "images/photos/identite-1.jpg",
+        "alt": "Portrait professionnel et photo d'identité",
+        "more": [
+          {
+            "src": "images/photos/identite-2.jpg",
+            "alt": "Portrait professionnel et photo d'identité"
+          },
+          {
+            "src": "images/photos/identite-3.jpg",
+            "alt": "Portrait professionnel et photo d'identité"
+          },
+          {
+            "src": "images/photos/identite-4.jpg",
+            "alt": "Portrait professionnel et photo d'identité"
+          }
+        ],
         "caption": "Photo d'identité"
       },
       {
-        "src": "images/gallery-6.svg",
-        "alt": "Mariage",
+        "src": "images/photos/mariage-1.jpg",
+        "alt": "Photographie de mariage et de cérémonie",
+        "more": [
+          {
+            "src": "images/photos/mariage-2.jpg",
+            "alt": "Photographie de mariage et de cérémonie"
+          },
+          {
+            "src": "images/photos/mariage-3.jpg",
+            "alt": "Photographie de mariage et de cérémonie"
+          },
+          {
+            "src": "images/photos/mariage-4.jpg",
+            "alt": "Photographie de mariage et de cérémonie"
+          },
+          {
+            "src": "images/photos/mariage-5.jpg",
+            "alt": "Photographie de mariage et de cérémonie"
+          },
+          {
+            "src": "images/photos/mariage-6.jpg",
+            "alt": "Photographie de mariage et de cérémonie"
+          }
+        ],
         "caption": "Mariage"
       },
       {
-        "src": "images/gallery-7.svg",
-        "alt": "Coulisses",
+        "src": "images/photos/coulisses-1.jpg",
+        "alt": "Coulisses et tournage",
+        "more": [
+          {
+            "src": "images/photos/coulisses-2.jpg",
+            "alt": "Coulisses et tournage"
+          },
+          {
+            "src": "images/photos/coulisses-3.jpg",
+            "alt": "Coulisses et tournage"
+          }
+        ],
         "caption": "Coulisses"
       },
       {
-        "src": "images/gallery-8.svg",
-        "alt": "Portraits d'équipe",
+        "src": "images/photos/equipe-1.jpg",
+        "alt": "Portrait d'équipe",
+        "more": [
+          {
+            "src": "images/photos/equipe-2.jpg",
+            "alt": "Portrait d'équipe"
+          },
+          {
+            "src": "images/photos/equipe-3.jpg",
+            "alt": "Portrait d'équipe"
+          }
+        ],
         "caption": "Portraits d'équipe"
       }
     ]
@@ -209,8 +375,22 @@
       "Livraison en haute qualité par lien"
     ],
     "image": {
-      "src": "images/studio.svg",
-      "alt": "L'équipe de PIC STUDIO"
+      "src": "images/photos/studio-1.jpg",
+      "alt": "L'équipe et le studio",
+      "more": [
+        {
+          "src": "images/photos/studio-2.jpg",
+          "alt": "L'équipe et le studio"
+        },
+        {
+          "src": "images/photos/studio-3.jpg",
+          "alt": "L'équipe et le studio"
+        },
+        {
+          "src": "images/photos/studio-4.jpg",
+          "alt": "L'équipe et le studio"
+        }
+      ]
     }
   },
   "trust": {
